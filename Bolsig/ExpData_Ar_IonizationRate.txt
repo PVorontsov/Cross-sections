@@ -1,0 +1,49 @@
+LXCat, www.lxcat.net
+Generated on 23 Jun 2020. All rights reserved.
+
+RECOMMENDED REFERENCE FORMAT
+- ETHZ database, www.lxcat.net, retrieved on June 23, 2020.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DATABASE:         ETHZ (ETH Zurich, High Voltage Laboratory)
+PERMLINK:         www.lxcat.net/ETHZ
+DESCRIPTION:      This is a database of electron swarm parameters obtained with pulsed Townsend experiments at the High
+                  Voltage Laboratory of ETH Zurich, Switzerland. These experiments enable us to measure electron and ion
+                  swarm parameters in arbitrary gases, such as the reaction rates of ionization, attachment, detachment
+                  and conversion, the electron and ion mobilities, and the longitudinal electron diffusion coefficient.
+                  Our group is open for joint projects where such measurements are needed. Please contact us
+                  (cfranck@ethz.ch) in case you are looking for data on gases that are not available or need updates.
+                  Currently, the database contains the swarm parameters of atmospheric gases, fluorinated gases, and gas
+                  mixtures. Measurements are ongoing and the database is regularly updated.
+CONTACT:          A. Chachereau (alisec@ethz.ch), C. M. Franck (cfranck@ethz.ch)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+************************************************************************************************************************
+
+COMMENT: Haefliger P, Franck C M, 2018, Detailed precision and accuracy analysis of swarm
+         parameters from a Pulsed Townsend experiment, Review of Scientific Instruments 89,   023114.
+
+********************************************************** Ar **********************************************************
+
+SPECIES: e / Ar
+PROCESS: Reaction rate (k)
+COMMENT: effective p=4kPa.
+UPDATED: 2018-03-12 11:01:51
+COLUMNS: Reduced electric field (Td) | Rate coefficient (m3/s)
+-----------------------------
+ 7.436000e+0	2.119000e-20
+ 9.964000e+0	4.112000e-20
+ 1.248000e+1	3.924000e-20
+ 1.502000e+1	3.998000e-20
+ 1.754000e+1	6.843000e-20
+ 2.007000e+1	7.307000e-20
+ 2.260000e+1	1.236000e-19
+ 2.512000e+1	2.058000e-19
+ 2.764000e+1	3.464000e-19
+ 3.017000e+1	5.380000e-19
+ 3.269000e+1	7.920000e-19
+ 3.526000e+1	1.168000e-18
+ 3.788000e+1	1.668000e-18
+ 4.042000e+1	2.226000e-18
+-----------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

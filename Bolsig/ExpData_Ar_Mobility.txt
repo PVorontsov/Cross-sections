@@ -1,0 +1,114 @@
+LXCat, www.lxcat.net
+Generated on 23 Jun 2020. All rights reserved.
+
+RECOMMENDED REFERENCE FORMAT
+- Dutton database, www.lxcat.net, retrieved on June 23, 2020.
+- ETHZ database, www.lxcat.net, retrieved on June 23, 2020.
+Be aware that some databases and solvers can additionally have instructions how to reference corresponding data.
+Please check below in the headers of databases.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DATABASE:         Dutton database
+PERMLINK:         www.lxcat.net/Dutton
+DESCRIPTION:      This is an experimental database which includes, at present,  data for rare gases from J. Dutton,
+                  “Survey of Electron Swarm Data”, J. Phys. Chem. Ref. Data, 4, 577, 1975.  This publication also
+                  includes data for molecular gases, and their transcription into this database is in progress.  
+                  These data were imported into LXCat by Sanchita Chowdhury, LAPLACE, Toulouse, France, 2010-2011.
+HOW TO REFERENCE: Jack Dutton, “Survey of Electron Swarm Data”, J. Phys. Chem. Ref. Data, 4, 577, 1975
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+************************************************************************************************************************
+
+COMMENT: This is a summary of experimental results at ambient temperatures (unless otherwise stated) by different authors.
+         Brambring, J., Z. Phys., 179, 539 (1964)
+         Caren, R. P., Phys. Rev. 131, 1904 (1963)
+         Errett, D. D., Ph. D. Thesis, Purdue University, (1951)
+         Herreng, P., Compt. Rend. 217, 75 (1943)
+         Jager, G., Otto, W., Z. Phys., 169, 517 (1962)
+         Kruithof, A. A., Physica, 7, 519 (1940)
+         Levine, N. E., Uman, M. A., J. Appl. Phys. 35, 2618 (1964) 
+         Milne, J.G.C., Davies, D. E., Br. J. Appl. Phys., 10, 301(1959)
+         Nielsen, R. A., Phys. Rev. 50, 950 (1936)
+         Pack, J. L., Phelps, A. V., Phys. Rev. 121, 798 (1961)
+         Townsend, J. S., Bailey, V.A., Phil. Mag. 44, 1033 (1922)
+         Wagner, K. H., Z. Physik, 178, 64 (1964)
+         Wagner, E. B., Davis, F. J., Hurst, G. S., J. Chem. Phys. 47, 3138, (1967)
+         Warren, R. W., Parker, J. H., Phys. Rev. 128, 2661-2671 (1962).
+
+********************************************************** Ar **********************************************************
+
+SPECIES: e / Ar
+PROCESS: Mobility x gas density (muN)
+COMMENT: Levine et al 1964.
+UPDATED: 2011-10-20 07:15:36
+COLUMNS: Reduced electric field (Td) | Mobility x gas density ((m.V.s)-1)
+-----------------------------
+ 3.070000e-1	8.827400e+24
+ 3.620000e-1	7.624300e+24
+ 4.410000e-1	6.371900e+24
+ 5.430000e-1	5.322300e+24
+ 6.850000e-1	4.321200e+24
+ 8.110000e-1	3.699100e+24
+ 9.760000e-1	3.176200e+24
+ 1.220000e+0	2.704900e+24
+ 1.519000e+0	2.304100e+24
+ 1.763000e+0	2.042000e+24
+ 1.991000e+0	1.908600e+24
+ 2.274000e+0	1.715000e+24
+ 2.526000e+0	1.543900e+24
+ 2.825000e+0	1.415900e+24
+ 3.080000e+0	1.298700e+24
+ 3.330000e+0	1.231200e+24
+ 3.630000e+0	1.101900e+24
+ 3.790000e+0	1.081800e+24
+ 4.060000e+0	1.059100e+24
+ 4.440000e+0	1.036000e+24
+ 4.820000e+0	1.016600e+24
+ 5.190000e+0	1.001900e+24
+ 5.410000e+0	9.981500e+23
+ 5.630000e+0	1.012400e+24
+-----------------------------
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DATABASE:         ETHZ (ETH Zurich, High Voltage Laboratory)
+PERMLINK:         www.lxcat.net/ETHZ
+DESCRIPTION:      This is a database of electron swarm parameters obtained with pulsed Townsend experiments at the High
+                  Voltage Laboratory of ETH Zurich, Switzerland. These experiments enable us to measure electron and ion
+                  swarm parameters in arbitrary gases, such as the reaction rates of ionization, attachment, detachment
+                  and conversion, the electron and ion mobilities, and the longitudinal electron diffusion coefficient.
+                  Our group is open for joint projects where such measurements are needed. Please contact us
+                  (cfranck@ethz.ch) in case you are looking for data on gases that are not available or need updates.
+                  Currently, the database contains the swarm parameters of atmospheric gases, fluorinated gases, and gas
+                  mixtures. Measurements are ongoing and the database is regularly updated.
+CONTACT:          A. Chachereau (alisec@ethz.ch), C. M. Franck (cfranck@ethz.ch)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+************************************************************************************************************************
+
+COMMENT: Haefliger P, Franck C M, 2018, Detailed precision and accuracy analysis of swarm
+         parameters from a Pulsed Townsend experiment, Review of Scientific Instruments 89,   023114.
+
+********************************************************** Ar **********************************************************
+
+SPECIES: e / Ar
+PROCESS: Mobility x gas density (muN)
+COMMENT: p=4kPa.
+UPDATED: 2018-03-12 08:33:40
+COLUMNS: Reduced electric field (Td) | Mobility x gas density ((m.V.s)-1)
+-----------------------------
+ 7.436000e+0	9.773000e+23
+ 9.964000e+0	9.763000e+23
+ 1.248000e+1	9.687000e+23
+ 1.502000e+1	9.584000e+23
+ 1.754000e+1	9.494000e+23
+ 2.007000e+1	9.366000e+23
+ 2.260000e+1	9.247000e+23
+ 2.512000e+1	9.146000e+23
+ 2.764000e+1	9.053000e+23
+ 3.017000e+1	8.957000e+23
+ 3.269000e+1	8.863000e+23
+ 3.526000e+1	8.780000e+23
+ 3.788000e+1	8.679000e+23
+ 4.042000e+1	8.578000e+23
+-----------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

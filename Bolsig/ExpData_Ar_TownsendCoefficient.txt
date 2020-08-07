@@ -1,0 +1,92 @@
+LXCat, www.lxcat.net
+Generated on 23 Jun 2020. All rights reserved.
+
+RECOMMENDED REFERENCE FORMAT
+- Dutton database, www.lxcat.net, retrieved on June 23, 2020.
+Be aware that some databases and solvers can additionally have instructions how to reference corresponding data.
+Please check below in the headers of databases.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DATABASE:         Dutton database
+PERMLINK:         www.lxcat.net/Dutton
+DESCRIPTION:      This is an experimental database which includes, at present,  data for rare gases from J. Dutton,
+                  “Survey of Electron Swarm Data”, J. Phys. Chem. Ref. Data, 4, 577, 1975.  This publication also
+                  includes data for molecular gases, and their transcription into this database is in progress.  
+                  These data were imported into LXCat by Sanchita Chowdhury, LAPLACE, Toulouse, France, 2010-2011.
+HOW TO REFERENCE: Jack Dutton, “Survey of Electron Swarm Data”, J. Phys. Chem. Ref. Data, 4, 577, 1975
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+************************************************************************************************************************
+
+COMMENT: This is a summary of experimental results at ambient temperatures (unless otherwise stated) by different authors.
+         Brambring, J., Z. Phys., 179, 539 (1964)
+         Caren, R. P., Phys. Rev. 131, 1904 (1963)
+         Errett, D. D., Ph. D. Thesis, Purdue University, (1951)
+         Herreng, P., Compt. Rend. 217, 75 (1943)
+         Jager, G., Otto, W., Z. Phys., 169, 517 (1962)
+         Kruithof, A. A., Physica, 7, 519 (1940)
+         Levine, N. E., Uman, M. A., J. Appl. Phys. 35, 2618 (1964) 
+         Milne, J.G.C., Davies, D. E., Br. J. Appl. Phys., 10, 301(1959)
+         Nielsen, R. A., Phys. Rev. 50, 950 (1936)
+         Pack, J. L., Phelps, A. V., Phys. Rev. 121, 798 (1961)
+         Townsend, J. S., Bailey, V.A., Phil. Mag. 44, 1033 (1922)
+         Wagner, K. H., Z. Physik, 178, 64 (1964)
+         Wagner, E. B., Davis, F. J., Hurst, G. S., J. Chem. Phys. 47, 3138, (1967)
+         Warren, R. W., Parker, J. H., Phys. Rev. 128, 2661-2671 (1962).
+
+********************************************************** Ar **********************************************************
+
+SPECIES: e / Ar
+PROCESS: Reduced ionization coefficient (alpha/N)
+COMMENT: Kruithof 1940.
+UPDATED: 2011-10-20 07:22:46
+COLUMNS: Reduced electric field (Td) | Reduced Townsend coefficient (m2)
+-----------------------------
+ 1.412000e+1	6.800000e-25
+ 1.554000e+1	1.040000e-24
+ 1.695000e+1	1.580000e-24
+ 1.977000e+1	3.200000e-24
+ 2.260000e+1	5.900000e-24
+ 2.542000e+1	9.800000e-24
+ 2.825000e+1	1.600000e-23
+ 3.110000e+1	2.500000e-23
+ 3.390000e+1	3.600000e-23
+ 3.960000e+1	6.800000e-23
+ 4.520000e+1	1.090000e-22
+ 5.090000e+1	1.580000e-22
+ 5.650000e+1	2.160000e-22
+ 6.220000e+1	2.820000e-22
+ 7.060000e+1	4.000000e-22
+ 7.910000e+1	5.300000e-22
+ 9.040000e+1	7.400000e-22
+ 1.017000e+2	9.500000e-22
+ 1.130000e+2	1.220000e-21
+ 1.271000e+2	1.550000e-21
+ 1.412000e+2	1.900000e-21
+ 1.695000e+2	2.620000e-21
+ 1.977000e+2	3.350000e-21
+ 2.260000e+2	4.100000e-21
+ 2.542000e+2	4.800000e-21
+ 2.825000e+2	5.600000e-21
+ 3.390000e+2	7.000000e-21
+ 3.960000e+2	8.500000e-21
+ 4.520000e+2	9.800000e-21
+ 5.090000e+2	1.120000e-20
+ 5.650000e+2	1.250000e-20
+ 6.780000e+2	1.490000e-20
+ 7.910000e+2	1.700000e-20
+ 9.040000e+2	1.900000e-20
+ 1.017000e+3	2.070000e-20
+ 1.130000e+3	2.230000e-20
+ 1.271000e+3	2.400000e-20
+ 1.412000e+3	2.560000e-20
+ 1.695000e+3	2.830000e-20
+ 1.977000e+3	3.050000e-20
+ 2.260000e+3	3.200000e-20
+ 2.542000e+3	3.400000e-20
+ 2.825000e+3	3.500000e-20
+ 3.390000e+3	3.600000e-20
+ 3.960000e+3	3.800000e-20
+ 4.520000e+3	3.900000e-20
+-----------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
